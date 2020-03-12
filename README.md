@@ -7,4 +7,3 @@ __How to use__: Run "Login.java".
 Reference:  
 https://blog.csdn.net/sinyusin/article/details/80392894  
 https://github.com/liugezi/FileManager  
-Thanks to liugezi's __FileManager__ and if there is an infringement, i‘ ll delete it immediately  
